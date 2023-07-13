@@ -1,4 +1,4 @@
-const message = "Hello world";
+const message = "Hello world, plus a change";
 alert(message);
 
 function foo() {
@@ -6,3 +6,6 @@ function foo() {
   }
   
   a = foo();
+
+
+  b = foo();
