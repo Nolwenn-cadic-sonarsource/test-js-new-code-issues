@@ -8,4 +8,4 @@ function foo() {
   a = foo();
 
 
-  b = foo();
+  b = foo() + 'aaaa';
